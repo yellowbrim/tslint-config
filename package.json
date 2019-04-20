@@ -1,13 +1,13 @@
 {
   "name": "@yellowbrim/tslint-config",
   "version": "1.0.0-beta.11",
-  "main": "./tslint.json",
+  "main": "./tslint.yml",
   "repository": "git@github.com:yellowbrim/yellowbrim-tslint-config.git",
   "author": "H. Charley Bodkin <hcbodkin@gmail.com>",
   "license": "MIT",
   "private": false,
   "files": [
-    "tslint.json",
+    "tslint.yml",
     "README.md"
   ],
   "access": {
