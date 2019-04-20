@@ -1,6 +1,6 @@
 {
   "name": "@yellowbrim/tslint-config",
-  "version": "1.0.0-beta.10",
+  "version": "1.0.0-beta.11",
   "main": "./tslint.json",
   "repository": "git@github.com:yellowbrim/yellowbrim-tslint-config.git",
   "author": "H. Charley Bodkin <hcbodkin@gmail.com>",
