@@ -8,5 +8,13 @@
   "private": false,
   "access": {
     "public": true
+  },
+  "devDependencies": {
+    "shx": "^0.3.2",
+    "typescript": "^3.4.4"
+  },
+  "dependencies": {
+    "tslint": "^5.16.0",
+    "tslint-eslint-rules": "^5.4.0"
   }
 }
